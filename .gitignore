@@ -1,0 +1,8 @@
+node_modules
+.next
+.out
+out
+.npm-cache
+.vercel
+.wrangler
+.DS_Store
